@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CitySdkAndroidExample</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="accommodation">Hotel</string>
+    <string name="parkingareas">Parking Areas</string>
+    <string name="airports">Airports</string>
+    <string name="Historical">Historical</string>
+    <string name="istanbulkart">Istanbul Kart</string>
+    <string name="pharmacy">Pharmacy</string>
+    <string name="religion">Religion</string>
+    <string name="station">Station</string>
+    <string name="taxi">Taxi</string>
+    <string name="options">Options</string>
+    <string name="contact">Contact</string>
+
+</resources>

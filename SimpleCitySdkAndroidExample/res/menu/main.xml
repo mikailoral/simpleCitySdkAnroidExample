@@ -1,0 +1,41 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/accommodation"
+        android:icon="@android:drawable/ic_menu_save"
+        android:title="@string/accommodation"/>
+    <item
+        android:id="@+id/parkingareas"
+        android:icon="@android:drawable/ic_delete"
+        android:title="@string/parkingareas"/>
+    <item
+        android:id="@+id/airports"
+        android:icon="@android:drawable/ic_dialog_email"
+        android:title="@string/airports"/>
+    <item
+        android:id="@+id/Historical"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/Historical"/>
+    <item
+        android:id="@+id/istanbulkart"
+        android:icon="@android:drawable/ic_btn_speak_now"
+        android:title="@string/istanbulkart"/>
+    <item
+        android:id="@+id/pharmacy"
+        android:icon="@android:drawable/ic_media_next"
+        android:title="@string/pharmacy"/>
+    <item
+        android:id="@+id/religion"
+        android:icon="@android:drawable/ic_media_pause"
+        android:title="@string/religion"/>
+    <item
+        android:id="@+id/station"
+        android:icon="@android:drawable/ic_media_play"
+        android:title="@string/station"/>
+    <item
+        android:id="@+id/taxi"
+        android:icon="@android:drawable/ic_media_previous"
+        android:title="@string/taxi"/>
+
+
+</menu>
